@@ -1,2 +1,3 @@
 # utils-rs
-🦑 Rust Utilities
+
+🦑 Rust utility library
