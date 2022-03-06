@@ -1,5 +1,7 @@
-pub mod open;
-pub mod check;
+mod check;
+mod fs;
+mod open;
 
-pub use open::*;
 pub use check::*;
+pub use fs::*;
+pub use open::*;

@@ -1,6 +1,5 @@
 use rsu::*;
 
-
 #[test]
 fn cmd_cd() {
     assert_eq!(check_cmd("cd"), true);

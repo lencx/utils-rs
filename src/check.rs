@@ -1,6 +1,6 @@
-use which::which;
-use std::path::Path;
 use std::fs;
+use std::path::Path;
+use which::which;
 
 pub fn check_cmd(program: &str) -> bool {
     match which(program) {
