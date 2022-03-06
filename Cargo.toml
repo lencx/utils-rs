@@ -1,6 +1,6 @@
 [package]
 name = "rsu"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Rust utility library"
 authors = ["lencx <cxin1314@gmail.com>"]
